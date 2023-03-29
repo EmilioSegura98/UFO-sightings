@@ -1,5 +1,5 @@
 # UFO-sightings
-### [link to dashboard] (http://127.0.0.1:5500/index.html)
+### [link to dashboard](http://127.0.0.1:5500/index.html)
 ## Module 12
 In this module I used Js skills in order to visualize with filters different alien ativity around diferent states in the US in 2010.
 Here I attach images of how the html works
